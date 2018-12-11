@@ -1,6 +1,4 @@
-# Web Security Notes
-
-## Intrusion Detection
+# Intrusion Detection
 >  **Detection Methods**
 >  *  IDS (Intrusion Detection Systems)
 >  *  HoneyPot
@@ -35,5 +33,9 @@
 
 >  **Data Audits**
 >
->
+>  *  Ensure data from website is rational and not exploiting vulnerabilities.
+>  *  Validate data serverside.
+>  *  Set flags for data thresholds ie price can only be reduced by x amount.
+>  *  Run analysis on incomplete orders to check for attack pattern.
+>     *  If there are a high number of these attacks make sure check for exploit analysis.
 ---
