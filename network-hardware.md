@@ -1,6 +1,6 @@
 #  Network Hardware
 
-The only important content is probably [here](#securing-the-network).
+The only important content is probably [here](#types-of-networks) and [here](#securing-the-network).
 
 ##  Types of Networks
 *  PAN
@@ -62,3 +62,21 @@ The only important content is probably [here](#securing-the-network).
   * Port forwarding
 
 ## Securing the Network
+* Don't leave the front door open.
+* Training
+* Physical Security
+* Delineation
+* Access Control
+* Encryption
+* Redundancy
+* Maintain updates
+* Periodic Audit
+* Security through Obscurity
+* Monitoring
+  * Alarms, Trends
+* Scanning
+  * Network Devices
+  * Servers
+  * Workstations
+* Default config should be locked down
+  *  Allow access only as needed.
