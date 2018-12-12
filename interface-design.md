@@ -33,4 +33,4 @@
 ### Prototyping Interfaces
 *  Vet designs.
 *  User paper mock-ups.
-*  Make sure plasticity is know.
+*  Make sure plasticity is known.
