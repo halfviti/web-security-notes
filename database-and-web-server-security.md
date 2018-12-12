@@ -61,3 +61,5 @@ Unfiltered input is displayed back allowing for scripts to embedded.
 * Filter all input.
 * Escape all Output in whatever format it is to be displayed. IE HTML safe for HTML.
 * Only allow safe content if field is conducive for it. This can be difficult with names.
+* Use mature solutions. Don't reinvent the wheel. Someone else has done it better and thought of more edge cases than you can,
+* Use conventions. Ensure clean input is marked as such.
